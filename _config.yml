@@ -24,13 +24,13 @@ repository               : "sujinlee997/sujinlee997.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sujin LEE"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "South Korea(SEOUL)"
+  employer         : "YONSEI University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "su.jinlee.997@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : # su_jin_lee_pb
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
